@@ -1,4 +1,4 @@
-# Fragestellung Gruppe Pink*
+# Fragestellung Gruppe Pink
 
 ## Welche Persongruppe hatte die besten Überlebenschancen auf der Titanic?
 
